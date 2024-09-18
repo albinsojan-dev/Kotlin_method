@@ -1,4 +1,4 @@
-### Click icon next page 
+### Click icon next page in jetpack compose
 ````
  fun NavController() {
         val navController = rememberNavController()
